@@ -1,0 +1,12 @@
+<svg width="90.000000" height="44.000000" viewBox="0 0 90 44" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_10099_82_0" x1="9.970924" y1="-0.613281" x2="83.236519" y2="43.571793" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#DF5950"/>
+			<stop offset="1.000000" stop-color="#451046"/>
+		</linearGradient>
+	</defs>
+	<path id="Ellipse 1 (Stroke)" d="M44.19 13.33C27.12 13.33 13.27 26.87 13.27 43.57L-1 43.57C-1 19.16 19.23 -0.62 44.19 -0.62C69.15 -0.62 89.38 19.16 89.38 43.57L75.11 43.57C75.11 26.87 61.27 13.33 44.19 13.33Z" fill="url(#paint_linear_10099_82_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

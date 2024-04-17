@@ -1,16 +1,18 @@
 import React from "react";
 import Navbar from "./components/navbar/Navbar";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/home/Home";
-import About from "./pages/about/About";
+import { Routers } from "./static/Router";
 
 function App() {
   return (
     <div>
       <Navbar />
       <Routes>
-        {/* <Route path="/" element={<Home />} /> */}
-        {/* <Route path="/about" element={<About />} /> */}
+        <Route>
+          {Routers?.map((el) => (
+            <Route key={el.id} path={el.path} element={el.element} />
+          ))}
+        </Route>
       </Routes>
     </div>
   );
